@@ -1,3 +1,7 @@
+MY FORK
+@
+https://github.com/vecto-solutions/directus-helm-chart.git
+
 > [!NOTE]
 >
 > This is a community-maintained repository and is not actively maintained by the Directus Core Team.
